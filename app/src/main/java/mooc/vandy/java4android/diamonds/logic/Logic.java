@@ -14,7 +14,7 @@ import mooc.vandy.java4android.diamonds.ui.OutputInterface;
 public class Logic
        implements LogicInterface {
     /**
-     * This is a String to be used in Logging (if/when you decide you
+     * This is a String to be used in Logging (if/when you decide you 
      * need it for debugging).
      */
     public static final String TAG = Logic.class.getName();
