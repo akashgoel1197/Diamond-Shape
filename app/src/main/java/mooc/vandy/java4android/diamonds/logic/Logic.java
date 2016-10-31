@@ -7,7 +7,7 @@ import mooc.vandy.java4android.diamonds.ui.OutputInterface;
  * This is where the logic of this App is centralized for this assignment.
  * <p>
  * The assignments are designed this way to simplify your early
- * Android interactions.  Designing the assignments this way allows
+ * Android interactions.  Designing the assignments this way allows 
  * you to first learn key 'Java' features without having to beforehand
  * learn the complexities of Android.
  */
